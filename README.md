@@ -50,7 +50,8 @@ body { background-color: #ccffcc; }
 <a href="cat_03.JPG" class="preview"><img src="cat_03.JPG" alt="サンプル画像" width="900" /></a>
 <a href="cat_04.JPG" class="preview"><img src="cat_04.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_09.JPG" class="preview"><img src="cat_09.JPG" alt="サンプル画像" width="450" /></a>
-<a href="cat_02.JPG" class="preview"><img src="cat_02.JPG" alt="サンプル画像" width="450" /></a>
+<a href="cat_12.JPG" class="preview"><img src="cat_12.JPG" alt="サンプル画像" width="450" /></a>
+<a href="cat_11.JPG" class="preview"><img src="cat_11.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_10.JPG" class="preview"><img src="cat_10.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_06.JPG" class="preview"><img src="cat_06.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_01.JPG" class="preview"><img src="cat_01.JPG" alt="サンプル画像" width="450" /></a>
