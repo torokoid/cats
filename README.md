@@ -51,10 +51,10 @@ body { background-color: #ccffcc; }
 <a href="cat_02.JPG" class="preview"><img src="cat_02.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_04.JPG" class="preview"><img src="cat_04.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_06.JPG" class="preview"><img src="cat_06.JPG" alt="サンプル画像" width="450" /></a>
-<a href="cat_03.JPG" class="preview"><img src="cat_03.JPG" alt="サンプル画像" width="450" /></a>
-<a href="cat_05.JPG" class="preview"><img src="cat_05.JPG" alt="サンプル画像" width="450" /></a>
+<a href="cat_09.JPG" class="preview"><img src="cat_09.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_07.JPG" class="preview"><img src="cat_07.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_08.JPG" class="preview"><img src="cat_08.JPG" alt="サンプル画像" width="450" /></a>
+<a href="cat_03.JPG" class="preview"><img src="cat_03.JPG" alt="サンプル画像" width="450" /></a>
 
 <h4><div class="center"><span class="grey">～～里親募集中～～</span></div></h4><br>
 
