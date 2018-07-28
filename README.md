@@ -31,19 +31,8 @@ font-size: 1.5em;
 }
 
 
-#wrap {background:none} /*PC用の背景はオフ*/
-body::before {
-  content:"";
-  display:block;
-  position:fixed;
-  top:0;
-  left:0;
-  z-index:-1;
-  width:100%;
-  height:100vh;
-  background:url(https://torokoid.github.io/fts/20180614_01.JPG) center/cover no-repeat; /*fixedをトル！*/
-  -webkit-background-size:cover;/*Android4*/
-  }
+
+body { background-color: #ccffcc; }
 
 
 </style> 
@@ -56,14 +45,14 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="cat_01.jpg" class="preview"><img src="cat_01.jpg" alt="サンプル画像" width="180" /></a>
-<a href="cat_02.jpg" class="preview"><img src="cat_02.jpg" alt="サンプル画像" width="180" /></a>
-<a href="cat_03.jpg" class="preview"><img src="cat_03.jpg" alt="サンプル画像" width="180" /></a>
-<a href="cat_04.jpg" class="preview"><img src="cat_04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="cat_05.jpg" class="preview"><img src="cat_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="cat_06.jpg" class="preview"><img src="cat_06.jpg" alt="サンプル画像" width="180" /></a>
-<a href="cat_07.jpg" class="preview"><img src="cat_07.jpg" alt="サンプル画像" width="180" /></a>
-<a href="cat_08.jpg" class="preview"><img src="cat_08.jpg" alt="サンプル画像" width="180" /></a>
+<a href="cat_01.JPG" class="preview"><img src="cat_01.JPG" alt="サンプル画像" width="180" /></a>
+<a href="cat_02.JPG" class="preview"><img src="cat_02.JPG" alt="サンプル画像" width="180" /></a>
+<a href="cat_03.JPG" class="preview"><img src="cat_03.JPG" alt="サンプル画像" width="180" /></a>
+<a href="cat_04.JPG" class="preview"><img src="cat_04.JPG" alt="サンプル画像" width="180" /></a>
+<a href="cat_05.JPG" class="preview"><img src="cat_05.JPG" alt="サンプル画像" width="180" /></a>
+<a href="cat_06.JPG" class="preview"><img src="cat_06.JPG" alt="サンプル画像" width="180" /></a>
+<a href="cat_07.JPG" class="preview"><img src="cat_07.JPG" alt="サンプル画像" width="180" /></a>
+<a href="cat_08.JPG" class="preview"><img src="cat_08.JPG" alt="サンプル画像" width="180" /></a>
 
-<h6><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。<br>
-画像のダウンロード要望がありましたので、背景画像へのリンクも付けました。</span></h6><br>
+<h6><span class="white">～～里親募集中～～</span></h6><br>
+
