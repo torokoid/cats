@@ -9,6 +9,7 @@ color: #fffafa;
 font-size: 1.5em;
  }
 <!--
+ .black {color:#000000;}
  .red {color:#ff0000;}
  .grey {color:#999999;}
  .snow {color:#fffafa;}
@@ -42,7 +43,7 @@ body { background-color: #ccffcc; }
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年5月19日(土)猫の子供たちが生まれました !!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~Hello</marquee></p>
+<span class="black"><p align="right"><marquee direction="right" scrollamount="20" width="45%">(^_^)/~Hello</marquee></p></span>
 
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
