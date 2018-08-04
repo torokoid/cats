@@ -43,7 +43,7 @@ body { background-color: #ccffcc; }
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年5月19日(土)猫の子供たちが生まれました !!!</marquee></span></h1>
-<span class="black"><p align="right"><marquee direction="right" scrollamount="20" width="45%">(^_^)/~Hello</marquee></p></span>
+<p align="right"><marquee direction="right" scrollamount="20" width="45%"><span class="black">(^_^)/~Hello</span></marquee></p>
 
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
