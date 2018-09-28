@@ -50,7 +50,7 @@ body { background-color: #ccffcc; }
 
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="grey">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="grey">↓ 画像はクリックで拡大します。スライドショー表示になります。</span></h3>
 <a href="cat_03.JPG" data-lightbox="abc"><img src="cat_03.JPG" alt="サンプル画像" width="900" /></a>
 <a href="cat_04.JPG" data-lightbox="abc"><img src="cat_04.JPG" alt="サンプル画像" width="450" /></a>
 <a href="cat_09.JPG" data-lightbox="abc"><img src="cat_09.JPG" alt="サンプル画像" width="450" /></a>
