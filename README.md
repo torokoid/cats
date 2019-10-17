@@ -89,11 +89,11 @@ body { background-color: #ccffcc; }
 <a href="20191012_036.JPG" data-lightbox="abc"><img src="20191012_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191012_037.JPG" data-lightbox="abc"><img src="20191012_037.JPG" alt="サンプル画像" width="900" /></a>
 	
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年5月19日(土)猫の子供たちが生まれました !!!</marquee></span></h1>
-</p>
+
 
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
