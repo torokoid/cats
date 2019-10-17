@@ -88,12 +88,11 @@ body { background-color: #ccffcc; }
 <a href="20191012_035.JPG" data-lightbox="abc"><img src="20191012_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191012_036.JPG" data-lightbox="abc"><img src="20191012_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191012_037.JPG" data-lightbox="abc"><img src="20191012_037.JPG" alt="サンプル画像" width="900" /></a>
-	
+</div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年5月19日(土)猫の子供たちが生まれました !!!</marquee></span></h1>
-
 
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
@@ -108,7 +107,7 @@ body { background-color: #ccffcc; }
 <a href="cat_01.JPG" data-lightbox="abc"><img src="cat_01.JPG" alt="サンプル画像" width="900" /></a>
 <a href="cat_07.JPG" data-lightbox="abc"><img src="cat_07.JPG" alt="サンプル画像" width="900" /></a>
 <a href="cat_08.JPG" data-lightbox="abc"><img src="cat_08.JPG" alt="サンプル画像" width="900" /></a>
-
+</div>
 
 <h4><div class="center"><span class="grey">～～里親募集中～～</span></div></h4><br>
 
