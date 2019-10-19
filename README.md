@@ -67,10 +67,10 @@ body::before {
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年9月猫ちゃん、大きくなりました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="45%"><span class="black">(^_^)/~Hello</span></marquee></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <div id="wrap">
 <!--
 <div style="background-color:rgb(255,255,255,0.3);">-->
