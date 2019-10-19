@@ -37,6 +37,20 @@ body { background-color: #ccffcc; }
    text-align: center;
 }
 
+#wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/cat/cat_08.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
+
 
 </style> 
    
