@@ -141,7 +141,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<h1><span class="yellow"><marquee behavior="left">!!! 2019年10月 子猫のお母さんが秋君にご挨拶。子猫を生んだ後脱走してご近所に居候中 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2019年10月 子猫のお母さん(ゆき)が秋君にご挨拶。もともと野良猫だったゆきは子猫を生んだ後脱走してご近所に居候中 !!!</marquee></span></h1>
 
 <div id="wrap">
 <h3><span class="grey">↓ 画像はクリックで拡大します。スライドショー表示になります。</span></h3>
@@ -151,7 +151,7 @@ body::before {
 <a href="20191012_041.JPG" data-lightbox="abc"><img src="20191012_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191012_042.JPG" data-lightbox="abc"><img src="20191012_042.JPG" alt="サンプル画像" width="900" /></a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
