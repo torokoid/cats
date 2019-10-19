@@ -51,14 +51,23 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
+}
 
 </style> 
    
-
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">   
    
 </head>
 <body>
+	
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにすると
+  より見やすくご覧頂けます。
+</p>
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2019年9月猫ちゃん、大きくなりました !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="45%"><span class="black">(^_^)/~Hello</span></marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
