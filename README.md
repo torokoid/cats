@@ -63,7 +63,8 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="45%"><span class="black">(^_^)/~Hello</span></marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
-<div style="background-color:rgb(255,255,255,0.3);">
+<!--
+<div style="background-color:rgb(255,255,255,0.3);">-->
 <h3><span class="grey">↓ 画像はクリックで拡大します。スライドショー表示になります。</span></h3>
 <a href="20191012_001.JPG" data-lightbox="abc"><img src="20191012_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191012_002.JPG" data-lightbox="abc"><img src="20191012_002.JPG" alt="サンプル画像" width="900" /></a>
@@ -102,14 +103,16 @@ body::before {
 <a href="20191012_035.JPG" data-lightbox="abc"><img src="20191012_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191012_036.JPG" data-lightbox="abc"><img src="20191012_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191012_037.JPG" data-lightbox="abc"><img src="20191012_037.JPG" alt="サンプル画像" width="900" /></a>
-</div>
+<!--
+</div>-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2018年5月19日(土)猫の子供たちが生まれました !!!</marquee></span></h1>
 
 <div id="wrap">
-<div style="background-color:rgb(255,255,255,0.3);">
+<!--
+<div style="background-color:rgb(255,255,255,0.3);">-->
 <h3><span class="grey">↓ 画像はクリックで拡大します。スライドショー表示になります。</span></h3>
 <a href="cat_03.JPG" data-lightbox="abc"><img src="cat_03.JPG" alt="サンプル画像" width="900" /></a>
 <a href="cat_04.JPG" data-lightbox="abc"><img src="cat_04.JPG" alt="サンプル画像" width="900" /></a>
@@ -121,7 +124,8 @@ body::before {
 <a href="cat_01.JPG" data-lightbox="abc"><img src="cat_01.JPG" alt="サンプル画像" width="900" /></a>
 <a href="cat_07.JPG" data-lightbox="abc"><img src="cat_07.JPG" alt="サンプル画像" width="900" /></a>
 <a href="cat_08.JPG" data-lightbox="abc"><img src="cat_08.JPG" alt="サンプル画像" width="900" /></a>
-</div>
+<!--
+</div>-->
 
 <h4><div class="center"><span class="grey">～～里親募集中～～</span></div></h4><br>
 
