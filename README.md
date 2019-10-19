@@ -156,3 +156,7 @@ body::before {
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
+<!-- フッタ -->
+ <footer>
+ Copyright 2018/06/20 Torokoid
+ </footer>
