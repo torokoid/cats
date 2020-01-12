@@ -99,9 +99,9 @@ body::before {
 <!--
 </div>-->
 <br><br>
-動画リンク、限定公開です。このリンクからのみ閲覧可能。<br>
+<span class="white">動画リンク、限定公開です。このリンクからのみ閲覧可能。</span><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDdyDRPNS6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>TVを観るハチ。<br>
+<br><span class="white">TVを観るハチ。</span><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WS0Iq3t7q-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
