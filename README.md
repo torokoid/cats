@@ -99,7 +99,7 @@ body::before {
 <!--
 </div>-->
 <br><br>
-動画リンク、限定公開です。このリンクのみ閲覧可能。
+動画リンク、限定公開です。このリンクのみ閲覧可能。<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDdyDRPNS6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WS0Iq3t7q-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
