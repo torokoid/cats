@@ -98,6 +98,11 @@ body::before {
 <a href="20200112_021.JPG" data-lightbox="abc"><img src="20200112_021.JPG" alt="サンプル画像" width="900" /></a>
 <!--
 </div>-->
+<br><br>
+動画リンク、限定公開です。このリンクからしか入れません。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDdyDRPNS6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WS0Iq3t7q-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 
